@@ -1,0 +1,97 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+HR:wght@100..400&display=swap');
+.h{
+    font-family: "Playwrite HR", cursive;
+    font-size: x-large;
+    margin-left: 14px;
+}
+.as1{
+    box-sizing: border-box;
+    width: 200px;
+    height: 1456px;
+    border-right: 1px solid gray;
+    float: left;
+    position: sticky;
+}
+.home{
+    display: flex;
+    align-items: center;
+    
+}
+.end{
+    font-size: larger;
+    margin-left: 10px;
+}
+.as2{
+    box-sizing: border-box;
+    width: 800px;
+    height: 1456px;
+    border-right: 1px solid white;
+    float: left;
+  
+
+}
+nav{
+    height: 130px;
+    width: 800px;
+    margin-top: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.image{
+    height: 50px;
+    width: 50px;
+    border-radius: 51px;
+    border-style: groove;
+    border: 2px groove rgba(240, 41, 124, 0.76);
+    
+}
+.a1{
+    height: 100px;
+    width:800px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+   
+
+   
+
+}
+.img{
+    height: 30px;
+    width: 30px;
+    border-radius: 31px;
+    border-style: groove;
+    border: 2px groove rgba(240, 41, 124, 0.76);
+    
+}
+.d1{
+    display: flex;
+    margin-top: 10px;
+}
+.as3{
+    float: left;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.as4{
+    float: left;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+.img1{
+    height: 30px;
+    width: 30px;
+    border-radius: 31px;
+    border:none;
+    
+    
+}
+
+    
+
